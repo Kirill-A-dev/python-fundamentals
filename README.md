@@ -58,8 +58,6 @@ This repository contains my Python learning journey.
 - Counting items with `len()`
 - Student filtering project
 
-## Goal
-
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
@@ -69,6 +67,8 @@ This repository contains my Python learning journey.
 - Day04 — Grade manager
 - Day05 — Functions and calculator
 - Day06 — Dictionaries and student filters
+
+## Goal
 
 Build a strong Python foundation for DevOps, AppSec, and DevSecOps.
 
