@@ -58,6 +58,16 @@ This repository contains my Python learning journey.
 - Counting items with `len()`
 - Student filtering project
 
+## Day 7
+
+- Nested data structures
+- List of dictionaries
+- Dictionary values as lists
+- Calculating average values with `sum()` and `len()`
+- Rounding values with `round()`
+- Assigning status with `if / elif / else`
+- Student average report
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
@@ -67,6 +77,7 @@ This repository contains my Python learning journey.
 - Day04 — Grade manager
 - Day05 — Functions and calculator
 - Day06 — Dictionaries and student filters
+- Day07 — Nested data structures
 
 ## Goal
 
