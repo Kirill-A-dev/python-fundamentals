@@ -35,8 +35,31 @@ This repository contains my Python learning journey.
 - `min()` and `max()`
 - Grade Manager project
 
+## Day 5
+
+- Python functions
+- `def`
+- Parameters and arguments
+- `return`
+- Calculator project
+- Input validation with `try / except`
+- Division by zero handling
+- Invalid choice handling
+- Repeating program flow with `while`
+
+## Day 6
+
+- Python dictionaries
+- `.keys()`, `.values()`, `.items()`
+- Accessing dictionary values by key
+- List of dictionaries
+- Filtering data with `if / elif / else`
+- Appending filtered values to new lists
+- Counting items with `len()`
+- Student filtering project
+
 ## Goal
 
-Build a strong Python foundation for DevOps and Offensive Security.
+Build a strong Python foundation for DevOps, AppSec, and DevSecOps.
 
 Author: Kirill
