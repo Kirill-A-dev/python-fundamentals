@@ -60,6 +60,16 @@ This repository contains my Python learning journey.
 
 ## Goal
 
+## Progress
+
+- Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
+- Day01 — Python basics
+- Day02 — Conditions and input
+- Day03 — Lists and loops
+- Day04 — Grade manager
+- Day05 — Functions and calculator
+- Day06 — Dictionaries and student filters
+
 Build a strong Python foundation for DevOps, AppSec, and DevSecOps.
 
 Author: Kirill
