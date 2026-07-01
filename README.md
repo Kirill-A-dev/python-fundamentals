@@ -4,20 +4,20 @@ This repository contains my Python learning journey.
 
 ## Completed
 
-### Day 1
+## Day 1
 
 - Variables
 - Input / Output
 - Calculator
 
-### Day 2
+## Day 2
 
 - Conditions
 - While loops
 - Guess the Number
 - Login validation
 
-### Day 3
+## Day 3
 
 - Python lists
 - `append()`
@@ -26,7 +26,7 @@ This repository contains my Python learning journey.
 - Input validation
 - Student list manager
 
-### Day 4
+## Day 4
 
 - Python lists
 - Nested loops
@@ -68,6 +68,14 @@ This repository contains my Python learning journey.
 - Assigning status with `if / elif / else`
 - Student average report
 
+## Day 8
+
+- File handling with `with open()`
+- Writing data to files
+- Reading data from files
+- Appending data to files
+- Generating text reports
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
@@ -78,6 +86,7 @@ This repository contains my Python learning journey.
 - Day05 — Functions and calculator
 - Day06 — Dictionaries and student filters
 - Day07 — Nested data structures
+- Day08 — Python file handling and student report generator 
 
 ## Goal
 
