@@ -1,0 +1,3 @@
+Alex: average grade = 4.67, status = excellent
+Maria: average grade = 5.00, status = excellent
+John: average grade = 3.33, status = needs improvement

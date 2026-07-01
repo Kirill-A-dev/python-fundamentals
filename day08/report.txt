@@ -1,0 +1,4 @@
+Today I practiced Python file writing.
+I created a report file.
+This is my first saved output.
+I added a new line to the report.
