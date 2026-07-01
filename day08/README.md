@@ -21,6 +21,8 @@ I learned how to:
 - `student_report.py` — generates a student average report
 - `report.txt` — simple text report
 - `students_report.txt` — generated student report
+- `server_report.py` — generates a simple server status report
+- `server_report.txt` — generated server status report
 
 ## Student report logic
 

@@ -1,0 +1,4 @@
+web-01: status = running, cpu = 35%, alert = ok
+db-01: status = running, cpu = 72%, alert = ok
+cache-01: status = stopped, cpu = 0%, alert = server is down
+worker-01: status = running, cpu = 91%, alert = high cpu usage
