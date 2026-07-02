@@ -1,0 +1,7 @@
+INFO User login successful
+ERROR Database connection failed
+WARNING Disk space is low
+INFO Backup completed
+ERROR Timeout while connecting to API
+CRITICAL Server is down
+INFO User logout

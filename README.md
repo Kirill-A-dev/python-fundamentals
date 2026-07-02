@@ -76,6 +76,31 @@ This repository contains my Python learning journey.
 - Appending data to files
 - Generating text reports
 
+## day09
+
+Log analyzer practice using hardcoded log data.
+
+Key topics:
+
+- Lists
+- Strings
+- Dictionaries
+- Log levels
+- Summary report generation
+
+## day10
+
+File-based log analyzer practice.
+
+Key topics:
+
+- Reading files
+- Processing log lines
+- `strip()`
+- `split()`
+- Dictionaries
+- Report generation
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
