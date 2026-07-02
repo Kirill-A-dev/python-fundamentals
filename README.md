@@ -76,7 +76,7 @@ This repository contains my Python learning journey.
 - Appending data to files
 - Generating text reports
 
-## day09
+## Day 9
 
 Log analyzer practice using hardcoded log data.
 
@@ -88,7 +88,7 @@ Key topics:
 - Log levels
 - Summary report generation
 
-## day10
+## Day 10
 
 File-based log analyzer practice.
 
