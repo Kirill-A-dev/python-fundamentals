@@ -1,0 +1,4 @@
+2026-07-02 12:30:01 INFO auth User login successful
+2026-07-02 12:31:10 ERROR database Connection failed
+2026-07-02 12:32:05 WARNING system Disk space is low
+2026-07-02 12:33:44 CRITICAL server Server is down

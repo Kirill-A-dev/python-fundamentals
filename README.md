@@ -101,6 +101,20 @@ Key topics:
 - Dictionaries
 - Report generation
 
+## Day 11
+
+Dictionaries practice, service status checker, and structured log parsing.
+
+Key topics:
+
+- Dictionaries
+- Command parsing
+- `if / elif / else`
+- Reading structured log files
+- Extracting fields from log lines
+- Dictionary counters
+- Service status checking
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
@@ -111,7 +125,10 @@ Key topics:
 - Day05 — Functions and calculator
 - Day06 — Dictionaries and student filters
 - Day07 — Nested data structures
-- Day08 — Python file handling and student report generator 
+- Day08 — Python file handling and student report generator
+- Day09 — Log analysis with lists, dictionaries, and summary reports
+- Day10 — File-based log analyzer
+- Day11 — Dictionaries, service status checker, and structured log parser
 
 ## Goal
 
