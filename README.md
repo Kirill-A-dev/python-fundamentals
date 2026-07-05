@@ -129,7 +129,7 @@ Key topics:
 - Day09 — Log analysis with lists, dictionaries, and summary reports
 - Day10 — File-based log analyzer
 - Day11 — Dictionaries, service status checker, and structured log parser
-
+- Day11.1 - Day 01-11 review
 ## Goal
 
 Build a strong Python foundation for DevOps, AppSec, and DevSecOps.
