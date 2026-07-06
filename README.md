@@ -115,6 +115,13 @@ Key topics:
 - Dictionary counters
 - Service status checking
 
+## Day 12
+- Command-line arguments with `sys.argv`
+- CLI-style command parsing
+- Service status checker
+- Argument validation
+- Basic error handling
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
@@ -130,6 +137,8 @@ Key topics:
 - Day10 — File-based log analyzer
 - Day11 — Dictionaries, service status checker, and structured log parser
 - Day11.1 - Day 01-11 review
+- Day12 — CLI-style service status tool with sys.argv
+
 ## Goal
 
 Build a strong Python foundation for DevOps, AppSec, and DevSecOps.
