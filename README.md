@@ -122,6 +122,17 @@ Key topics:
 - Argument validation
 - Basic error handling
 
+## Day 13
+
+- Command-line arguments
+- `sys.argv`
+- CLI command parsing
+- Service list command
+- Service status command
+- Start and stop service commands
+- Updating dictionary values
+- Basic error handling
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
@@ -138,6 +149,7 @@ Key topics:
 - Day11 — Dictionaries, service status checker, and structured log parser
 - Day11.1 - Day 01-11 review
 - Day12 — CLI-style service status tool with sys.argv
+- Day13 — Improved CLI service tool with start and stop commands
 
 ## Goal
 
