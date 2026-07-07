@@ -133,6 +133,15 @@ Key topics:
 - Updating dictionary values
 - Basic error handling
 
+## Day 14
+
+- JSON file storage
+- `json.load()`
+- `json.dump()`
+- Reading service data from `services.json`
+- Saving updated service statuses
+- Persistent CLI state
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
@@ -150,6 +159,7 @@ Key topics:
 - Day11.1 - Day 01-11 review
 - Day12 — CLI-style service status tool with sys.argv
 - Day13 — Improved CLI service tool with start and stop commands
+- Day14 — Service CLI with persistent JSON storage
 
 ## Goal
 
