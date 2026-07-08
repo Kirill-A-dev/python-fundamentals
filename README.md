@@ -151,6 +151,15 @@ Key topics:
 - Kept JSON loading and saving logic
 - Improved code readability
 
+## Day 16
+
+- Added error handling to service CLI
+- Handled missing `services.json`
+- Handled empty or broken JSON files
+- Handled wrong JSON data types
+- Added reset logic for default services
+- Practiced defensive programming with `try` / `except`
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
