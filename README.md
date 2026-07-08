@@ -160,6 +160,16 @@ Key topics:
 - Added reset logic for default services
 - Practiced defensive programming with `try` / `except`
 
+# Day 17
+- Basic testing
+- `assert`
+- Test functions
+- Regression testing
+- Testing function behavior
+- Testing JSON error handling
+- Manual test runner
+
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
@@ -179,6 +189,8 @@ Key topics:
 - Day13 — Improved CLI service tool with start and stop commands
 - Day14 — Service CLI with persistent JSON storage
 - Day15 - Refactored service CLI project
+- Day16 - Add Error Handling to Service CLI
+- Day17 - Basic Tests for Service CLI
 
 ## Goal
 
