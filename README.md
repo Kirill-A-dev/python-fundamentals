@@ -142,6 +142,15 @@ Key topics:
 - Saving updated service statuses
 - Persistent CLI state
 
+## Day 15
+
+- Refactored service CLI project
+- Moved repeated logic into functions
+- Added `main()` function
+- Practiced cleaner Python project structure
+- Kept JSON loading and saving logic
+- Improved code readability
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
@@ -160,6 +169,7 @@ Key topics:
 - Day12 — CLI-style service status tool with sys.argv
 - Day13 — Improved CLI service tool with start and stop commands
 - Day14 — Service CLI with persistent JSON storage
+- Day15 - Refactored service CLI project
 
 ## Goal
 
