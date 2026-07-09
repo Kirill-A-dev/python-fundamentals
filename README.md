@@ -169,6 +169,22 @@ Key topics:
 - Testing JSON error handling
 - Manual test runner
 
+# Day 18 — Pytest
+- pytest installation
+- pytest test discovery
+- test function naming
+- assertions
+- removing manual test calls
+- running automated tests from terminal
+
+# Day 19 — Pytest fixtures
+
+- pytest fixtures
+- passing fixtures into test functions
+- test data preparation
+- cleaner assertions
+- reducing repeated test code
+- running automated tests with pytest
 
 ## Progress
 
@@ -191,6 +207,8 @@ Key topics:
 - Day15 - Refactored service CLI project
 - Day16 - Add Error Handling to Service CLI
 - Day17 - Basic Tests for Service CLI
+- Day18 - Pytest test discovery
+- Day19 — Pytest fixtures
 
 ## Goal
 
