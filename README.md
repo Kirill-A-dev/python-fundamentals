@@ -208,7 +208,7 @@ Key topics:
 - Day16 - Add Error Handling to Service CLI
 - Day17 - Basic Tests for Service CLI
 - Day18 - Pytest test discovery
-- Day19 — Pytest fixtures
+- Day19 - Pytest fixtures
 
 ## Goal
 
