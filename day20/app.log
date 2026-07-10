@@ -1,0 +1,33 @@
+2026-07-10 12:50:09 - INFO - Services loaded successfully
+2026-07-10 12:50:09 - WARNING - Service not found: ngin
+2026-07-10 12:50:12 - INFO - Services loaded successfully
+2026-07-10 12:50:12 - WARNING - Service nginx changed status to running
+2026-07-10 12:51:04 - INFO - Services loaded successfully
+2026-07-10 12:51:04 - INFO - Service nginx changed status to running
+2026-07-10 12:51:08 - INFO - Services loaded successfully
+2026-07-10 12:51:08 - WARNING - Service not found: ngin
+2026-07-10 12:51:14 - INFO - Services loaded successfully
+2026-07-10 12:51:14 - WARNING - Unknown command: star
+2026-07-10 12:51:22 - INFO - Services loaded successfully
+2026-07-10 12:51:22 - INFO - Service nginx changed status to stopped
+2026-07-10 13:01:53 - INFO - Services loaded successfully
+2026-07-10 13:01:53 - WARNING - Service not found: ngin
+2026-07-10 13:03:42 - INFO - Services loaded successfully
+2026-07-10 13:03:42 - WARNING - Service not found: ngin
+2026-07-10 13:03:57 - INFO - Services loaded successfully
+2026-07-10 13:03:57 - WARNING - Service not found: nginX
+2026-07-10 13:04:03 - INFO - Services loaded successfully
+2026-07-10 13:04:03 - INFO - Service nginx changed status to running
+2026-07-10 13:04:12 - INFO - Services loaded successfully
+2026-07-10 13:04:12 - INFO - Service nginx changed status to stopped
+2026-07-10 13:04:18 - INFO - Services loaded successfully
+2026-07-10 13:04:18 - WARNING - Unknown command: str
+2026-07-10 13:05:29 - INFO - Services loaded successfully
+2026-07-10 13:05:29 - WARNING - Unknown command: str
+2026-07-10 13:10:17 - ERROR - File not found
+2026-07-10 13:10:17 - INFO - Services reset to default values
+2026-07-10 13:12:28 - INFO - Services loaded successfully
+2026-07-10 13:12:39 - ERROR - Services file not found: /home/user_kirill/projects/python-fundamentals/day20/services.json
+2026-07-10 13:12:39 - WARNING - Services reset to default values
+2026-07-10 13:16:14 - INFO - Services loaded successfully
+2026-07-10 13:16:14 - INFO - Service nginx changed status to stopped

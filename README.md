@@ -186,6 +186,15 @@ Key topics:
 - reducing repeated test code
 - running automated tests with pytest
 
+### Day 20 — Logging
+
+- Python logging module
+- Log levels
+- File logging
+- Error and warning logging
+- Logging integration with CLI
+- 7 pytest tests passed
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
