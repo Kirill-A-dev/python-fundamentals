@@ -1,0 +1,42 @@
+2026-07-10 15:52:06 - ERROR - Services file not found: /home/user_kirill/projects/python-fundamentals/day21/services.json
+2026-07-10 15:52:06 - WARNING - Services reset to default values
+2026-07-10 15:54:24 - INFO - Services loaded successfully
+2026-07-10 15:55:23 - INFO - Services loaded successfully
+2026-07-10 16:12:58 - INFO - Services loaded successfully
+2026-07-10 16:13:08 - INFO - Services loaded successfully
+2026-07-10 16:13:08 - INFO - Service nginx changed status to running
+2026-07-10 16:13:33 - INFO - Services loaded successfully
+2026-07-10 16:13:53 - INFO - Services loaded successfully
+2026-07-10 16:13:53 - INFO - Service nginx changed status to running
+2026-07-10 16:14:02 - INFO - Services loaded successfully
+2026-07-10 16:14:02 - INFO - Service nginx changed status to running
+2026-07-10 16:14:09 - INFO - Services loaded successfully
+2026-07-10 16:15:23 - INFO - Services loaded successfully
+2026-07-10 16:15:23 - WARNING - Service not found: postgre
+2026-07-10 16:18:26 - INFO - Services loaded successfully
+2026-07-10 16:18:26 - WARNING - Service not found: postgre
+2026-07-10 16:19:22 - INFO - Services loaded successfully
+2026-07-10 16:19:40 - INFO - Services loaded successfully
+2026-07-10 16:19:58 - INFO - Services loaded successfully
+2026-07-10 16:19:58 - INFO - Service nginx changed status to stopped
+2026-07-10 16:20:12 - INFO - Services loaded successfully
+2026-07-10 16:20:12 - INFO - Service redis changed status to stopped
+2026-07-10 16:20:23 - INFO - Services loaded successfully
+2026-07-10 16:20:23 - INFO - Service postgres changed status to running
+2026-07-10 16:20:32 - INFO - Services loaded successfully
+2026-07-10 16:20:40 - INFO - Services loaded successfully
+2026-07-10 16:20:41 - WARNING - Service not found: banana
+2026-07-10 16:36:04 - INFO - Services loaded successfully
+2026-07-10 16:39:31 - INFO - Services loaded successfully
+2026-07-10 16:50:03 - INFO - Services loaded successfully
+2026-07-10 16:50:21 - INFO - Services loaded successfully
+2026-07-10 16:50:21 - INFO - Service nginx changed status to running
+2026-07-10 16:50:21 - INFO - Service nginx changed status to stopped
+2026-07-10 16:51:27 - INFO - Services loaded successfully
+2026-07-10 16:51:27 - INFO - Service nginx changed status to running
+2026-07-10 16:51:35 - INFO - Services loaded successfully
+2026-07-10 16:51:35 - INFO - Service postgres changed status to running
+2026-07-10 16:51:43 - INFO - Services loaded successfully
+2026-07-10 16:51:43 - WARNING - Service not found: list
+2026-07-10 16:51:50 - INFO - Services loaded successfully
+2026-07-10 16:52:02 - INFO - Services loaded successfully
