@@ -15,6 +15,7 @@ DEFAULT_SERVICES = {
     "redis": "running"
 }
 
+
 def create_parser():
     parser = argparse.ArgumentParser()
     
@@ -56,10 +57,11 @@ def load_services():
         return reset_services()    
     except json.JSONDecodeError:
         logging.error("Failed to decode services JSON")
-        return reset_services()
+        return reset_services()    
 def save_services(services):
     with open(SERVICES_FILE, "w") as file:
         json.dump(services, file, indent=4)
+
 def show_usage():
     print("Usage:")
     print("  python3 service_cli.py list")
