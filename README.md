@@ -207,6 +207,17 @@ Key topics:
 - `parser.error()`
 - CLI parser testing with pytest
 
+# Day 23 — Linux Files and Processes
+
+- File system navigation
+- Creating, copying, moving, and viewing files
+- Output redirection with `>` and `>>`
+- Searching with `grep` and `find`
+- File permissions with `chmod`
+- Process monitoring
+- Background and foreground jobs
+- Process termination
+
 
 ## Progress
 
@@ -234,7 +245,7 @@ Key topics:
 - Day20 - Python logging module
 - Day21 - `argparse` module
 - Day22 - Exceptions
-
+- Day23 — Linux files and processes practice
 
 ## Goal
 

@@ -1,0 +1,4 @@
+environment=development
+service=nginx
+status=running
+port=80
