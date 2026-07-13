@@ -195,6 +195,19 @@ Key topics:
 - Logging integration with CLI
 - 7 pytest tests passed
 
+# Day 21 — argparse
+
+- `argparse` module
+- `ArgumentParser`
+- positional arguments
+- `parse_args()`
+- `Namespace`
+- `choices`
+- `nargs="?"`
+- `parser.error()`
+- CLI parser testing with pytest
+
+
 ## Progress
 
 - Day00 — Environment setup: WSL, Ubuntu, VS Code, Git, GitHub
@@ -218,6 +231,10 @@ Key topics:
 - Day17 - Basic Tests for Service CLI
 - Day18 - Pytest test discovery
 - Day19 - Pytest fixtures
+- Day20 - Python logging module
+- Day21 - `argparse` module
+- Day22 - Exceptions
+
 
 ## Goal
 
