@@ -186,7 +186,7 @@ Key topics:
 - reducing repeated test code
 - running automated tests with pytest
 
-### Day 20 — Logging
+## Day 20 — Logging
 
 - Python logging module
 - Log levels
