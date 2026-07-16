@@ -21,6 +21,6 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       - name: Run tests
-        working-directory: day21
+        working-directory: day26
         run: pytest
 
