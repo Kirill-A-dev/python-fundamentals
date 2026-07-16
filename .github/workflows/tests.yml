@@ -22,5 +22,5 @@ jobs:
 
       - name: Run tests
         working-directory: day26
-        run: pytest -m pytest
+        run: python -m pytest
 
