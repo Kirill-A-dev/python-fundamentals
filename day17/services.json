@@ -1,1 +1,5 @@
-{"nginx": "stopped", "postgres": "running", "redis": "stopped"}
+{
+    "nginx": "running",
+    "postgres": "stopped",
+    "redis": "running"
+}
